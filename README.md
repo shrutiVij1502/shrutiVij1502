@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shruti-vij/?trk=public_profile_browsemap&originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shruti-vij/" height="30" width="40" /></a>
-<a href="https://instagram.com/shruti_vij02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shruti_vij02" height="30" width="40" /></a>
+<a href="https://instagram.com/shruti_vij1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shruti_vij02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
